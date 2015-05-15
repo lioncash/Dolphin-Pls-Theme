@@ -8,3 +8,14 @@ A really good theme; I made it in PaintTool SAI instead of MSPaint, so quality w
 2. Open Dolphin and go to Config -> Interface
 3. Set the theme to one of the three themes
 4. Done
+
+### Screenshots
+
+pls:
+![](https://github.com/lioncash/Dolphin-Pls-Theme/blob/master/screenshots/pls.png)
+
+pls Pink:
+![](https://github.com/lioncash/Dolphin-Pls-Theme/blob/master/screenshots/plsPink.png)
+
+pls Blue:
+![](https://github.com/lioncash/Dolphin-Pls-Theme/blob/master/screenshots/plsBlue.png)
